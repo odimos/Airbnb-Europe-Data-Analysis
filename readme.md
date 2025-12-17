@@ -9,10 +9,10 @@
 Applied Machine Learning, AUEB 2024  
 
 - [Assignment Specification](assignment.ipynb)
-- [Solution Code](Airbnb.ipynb)
+- [Solution Code](airbnb.ipynb)
 
 > Note: GitHub renders notebooks statically and readme includes only images.  
-> For full interactivity (widgets, dynamic charts), download `Airbnb.ipynb` and open it locally in an environment that supports Jupyter notebooks.  
+> For full interactivity (widgets, dynamic charts), download `airbnb.ipynb` and open it locally in an environment that supports Jupyter notebooks.  
 > Partial interactivity can also be viewed here: [View notebook via nbviewer](https://nbviewer.org/github/odimos/AirBnB/blob/main/airbnb.ipynb)
 
 
@@ -89,8 +89,8 @@ For each city, we estimate activity:
 
 
 ## Visualisation
-> For full interactivity (widgets, dynamic charts), download `Airbnb.ipynb` and open it locally in an environment that supports Jupyter notebooks.
-> Partial interactivity can also be viewed here: [View notebook via nbviewer](https://nbviewer.org/github/USERNAME/REPO/blob/main/Airbnb.ipynb)
+> For full interactivity (widgets, dynamic charts), download `airbnb.ipynb` and open it locally in an environment that supports Jupyter notebooks.
+> Partial interactivity can also be viewed here: [View notebook via nbviewer](https://nbviewer.org/github/USERNAME/REPO/blob/main/airbnb.ipynb)
 
 ### Static example for Athnes
 ![Athens](visualisation.png)
