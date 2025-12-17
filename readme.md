@@ -6,7 +6,7 @@
 </div>
 
 <br><br>
-Applied Machine Learning, AUEB 2024  
+Applied Machine Learning, first assignment, AUEB 2024  
 
 - [Assignment Specification](assignment.ipynb)
 - [Solution Code](airbnb.ipynb)
