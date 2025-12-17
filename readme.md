@@ -88,3 +88,18 @@ It always displays the Athens Top Hosts regardless of the selected city.
 
 ### Static example for Athnes
 ![Athens](visualisation.png)
+
+### Top Hosts for Athens
+
+| Host Name                 | Listings | Entire home/apt | Hotel room | Private room | Shared room | City   |
+|---------------------------|----------|------------------|------------|--------------|-------------|--------|
+| Blueground                | 295      | 295              | 0          | 0            | 0           | Lisbon |
+| Feels Like Home           | 293      | 283              | 0          | 10           | 0           | Lisbon |
+| Pedro                     | 221      | 9                | 0          | 209          | 3           | Lisbon |
+| Ukio                      | 212      | 212              | 0          | 0            | 0           | Lisbon |
+| BnBird                    | 161      | 143              | 0          | 18           | 0           | Lisbon |
+| Flavio                    | 143      | 29               | 0          | 114          | 0           | Lisbon |
+| Luís                      | 129      | 17               | 0          | 112          | 0           | Lisbon |
+| Altido                    | 120      | 110              | 0          | 8            | 2           | Lisbon |
+| Alexandra Pedro And Team  | 104      | 104              | 0          | 0            | 0           | Lisbon |
+| SmithAndAdams             | 68       | 68               | 0          | 0            | 0           | Lisbon |
