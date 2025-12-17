@@ -1,8 +1,8 @@
 # Exploring AirBnB in Europe
 
-<div style="display:flex;gap:10px">
-<img width="400px" src="Airbnb.png">
-<img width="200px" src="flag.webp" >
+<div>
+  <img src="Airbnb.png" width="400" style="margin-right:10px;">
+  <img src="flag.webp" width="200">
 </div>
 
 <br><br>
