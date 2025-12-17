@@ -1,7 +1,9 @@
 # Exploring AirBnB in Europe
 
+<div style="display:flex">
 <img width="400px" src="Airbnb.png"  style="margin-right:20px">
 <img width="200px" src="flag.webp" >
+</div>
 
 <br><br>
 Applied Machine Learning, AUEB 2024  
