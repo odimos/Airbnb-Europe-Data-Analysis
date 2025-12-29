@@ -93,7 +93,7 @@ For each city, we estimate activity:
 ## Visualisation
 >  ⚠️ Note:
 > For full interactivity, download `airbnb.ipynb` and run it locally in an environment that supports Jupyter notebooks. 
-> A partially interactive version is also available via nbviewer:: [View notebook via nbviewer](https://nbviewer.org/github/USERNAME/REPO/blob/main/airbnb.ipynb)
+> A partially interactive version is also available via nbviewer:: [View notebook via nbviewer](https://nbviewer.org/github/odimos/AirBnB/blob/main/airbnb.ipynb)
 
 ### Static example for Athnes
 ![Athens](visualisation.png)
